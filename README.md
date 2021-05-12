@@ -1,1 +1,1 @@
-# Image-pixels-clustering
+# Recreating Image by Pixels Clustering 
